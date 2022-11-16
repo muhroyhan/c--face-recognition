@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<karyawan>
+  <identitas_karyawan>
+    <id_kar>1001</id_kar>
+    <nama_karyawan>roy</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1002</id_kar>
+    <nama_karyawan>rahmat</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1003</id_kar>
+    <nama_karyawan>revaldy</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1004</id_kar>
+    <nama_karyawan>bastomi</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1005</id_kar>
+    <nama_karyawan>sintya</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1006</id_kar>
+    <nama_karyawan>pungki</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1007</id_kar>
+    <nama_karyawan>ari</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1008</id_kar>
+    <nama_karyawan>maya</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1009</id_kar>
+    <nama_karyawan>dea</nama_karyawan>
+  </identitas_karyawan>
+  <identitas_karyawan>
+    <id_kar>1010</id_kar>
+    <nama_karyawan>rochim</nama_karyawan>
+  </identitas_karyawan>
+</karyawan>

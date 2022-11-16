@@ -1,0 +1,199 @@
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\programTA.exe.config
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x64\concrt140.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x64\cvextern.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x64\msvcp140.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x64\opencv_ffmpeg320_64.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x64\vcruntime140.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x86\concrt140.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x86\cvextern.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x86\msvcp140.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x86\opencv_ffmpeg320.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\x86\vcruntime140.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\programTA.exe
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\programTA.pdb
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Emgu.CV.UI.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Emgu.CV.World.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\ZedGraph.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Emgu.CV.UI.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Emgu.CV.World.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\ZedGraph.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\de\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\es\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\fr\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\hu\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\it\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\ja\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\pt\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\ru\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\sk\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\sv\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\tr\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\obj\Debug\programTA.csprojResolveAssemblyReference.cache
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\obj\Debug\programTA.Properties.Resources.resources
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\obj\Debug\programTA.csproj.GenerateResource.Cache
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\obj\Debug\programTA.exe
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\obj\Debug\programTA.pdb
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.dll.config
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Imaging.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Math.Core.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Math.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Statistics.dll
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Imaging.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Math.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Math.Core.xml
+c:\users\royhan\documents\visual studio 2015\Projects\programTA\programTA\bin\Debug\Accord.Statistics.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\itextsharp.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\itextsharp.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\obj\Debug\programTA.frmPengenalanUtama.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\PresentationFramework.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\obj\Debug\programTA.Form2.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.Common.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.License.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.Pdf.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.XLS.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.Common.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.Pdf.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\bin\Debug\Spire.XLS.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\programTA.exe.config
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.exe
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.pdb
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x64\concrt140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x64\cvextern.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x64\msvcp140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x64\vcruntime140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x86\concrt140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x86\cvextern.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x86\msvcp140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\x86\vcruntime140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.dll.config
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\programTA.exe
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\programTA.pdb
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Imaging.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Math.Core.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Math.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Statistics.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Emgu.CV.World.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\itextsharp.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\PresentationFramework.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.Common.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.License.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.Pdf.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.XLS.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\ZedGraph.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Imaging.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Math.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Math.Core.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Accord.Statistics.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Emgu.CV.World.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\itextsharp.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.Common.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.Pdf.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\Spire.XLS.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\ZedGraph.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.csprojResolveAssemblyReference.cache
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.Form2.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.frmPengenalanUtama.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.Properties.Resources.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\programTA\programTA\obj\Debug\programTA.csproj.GenerateResource.Cache
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\obj\Debug\programTA.frmListTerdaftar.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA\programTA\obj\Debug\programTA.frmTambahKaryawan.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\programTA.exe.config
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.exe
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.pdb
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x64\concrt140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x64\cvextern.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x64\msvcp140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x64\opencv_ffmpeg320_64.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x64\vcruntime140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x86\concrt140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x86\cvextern.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x86\msvcp140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x86\opencv_ffmpeg320.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\x86\vcruntime140.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.dll.config
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\programTA.exe
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\programTA.pdb
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Imaging.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Math.Core.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Math.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Statistics.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Emgu.CV.World.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\itextsharp.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\PresentationFramework.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.Common.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.License.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.Pdf.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.XLS.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\System.Web.DataVisualization.Design.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\System.Web.DataVisualization.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\ZedGraph.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Imaging.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Math.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Math.Core.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Accord.Statistics.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Emgu.CV.World.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\itextsharp.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.Common.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.Pdf.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\Spire.XLS.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\ZedGraph.xml
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.csprojResolveAssemblyReference.cache
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.Form2.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.frmListTerdaftar.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.frmPengenalanUtama.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.frmTambahKaryawan.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.Properties.Resources.resources
+C:\Users\Royhan\Documents\Visual Studio 2015\Projects\programTA lam - Copy\programTA\obj\Debug\programTA.csproj.GenerateResource.Cache
